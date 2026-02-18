@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "RealEstateAgent",
+  "name": "DelSolPrimeHomes",
+  "description": "DelSolPrimeHomes is a real estate company operating in the Costa del Sol region of southern Spain, specializing in new-build and off-plan residential property for international buyers.",
+  "url": "https://www.delsolprimehomes.com",
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Costa del Sol",
+    "address": {
+      "@type": "Country",
+      "name": "Spain"
+    }
+  },
+  "knowsAbout": [
+    "New-build real estate",
+    "Off-plan property",
+    "Residential property investment",
+    "Spanish real estate market"
+  ],
+  "location": {
+    "@type": "Place",
+    "name": "Málaga–Costa del Sol Airport",
+    "description": "Major international transport hub serving the Costa del Sol region"
+  }
+}
