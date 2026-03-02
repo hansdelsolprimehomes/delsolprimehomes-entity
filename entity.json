@@ -2,25 +2,29 @@
   "@context": "https://schema.org",
   "@type": "RealEstateAgent",
   "name": "DelSolPrimeHomes",
-  "description": "DelSolPrimeHomes is a real estate company operating in the Costa del Sol region of southern Spain, specializing in new-build and off-plan residential property for international buyers.",
-  "url": "https://www.delsolprimehomes.com",
-  "areaServed": {
-    "@type": "AdministrativeArea",
-    "name": "Costa del Sol",
-    "address": {
-      "@type": "Country",
-      "name": "Spain"
-    }
-  },
-  "knowsAbout": [
-    "New-build real estate",
-    "Off-plan property",
-    "Residential property investment",
-    "Spanish real estate market"
-  ],
-  "location": {
-    "@type": "Place",
-    "name": "Málaga–Costa del Sol Airport",
-    "description": "Major international transport hub serving the Costa del Sol region"
-  }
+  "description": "Real estate company operating in the Costa del Sol, specializing in new-build and off-plan residential property in Spain.",
+  "url": "https://github.com/hansdelsolprimehomes/delsolprimehomes-entity",
+  "email": "info@delsolprimehomes.com",
+  "sameAs": [
+    "https://www.instagram.com/delsolprimehomes/",
+    "https://www.facebook.com/profile.php?id=61583055474767",
+    "https://www.tiktok.com/@beecosta8",
+    "https://www.linkedin.com/company/delsolprimehomes/",
+    "https://x.com/HansBeeckm28167",
+    "https://www.reddit.com/user/Horror_Ease3431/",
+    "https://www.quora.com/profile/Delsolprimehomes-1",
+    "https://medium.com/@DelSolPrimeHomes",
+    "https://es.pinterest.com/delsolprimehomes",
+    "https://substack.com/@delsolprimehomes",
+    "https://www.youtube.com/@DelSolPrimeHomes",
+    "https://www.dailymotion.com/user/DelSolPrimeHomes",
+    "https://vimeo.com/user250013734",
+    "https://www.tumblr.com/blog/delsolprimehomes",
+    "https://www.podbean.com/user-z7xy7Nu85TV2",
+    "https://hashnode.com/@delsolprimehomes",
+    "https://www.crunchbase.com/organization/delsolprimehomes",
+    "https://www.behance.net/delsolprimehomes",
+    "https://soundcloud.com/delsolprimehomes",
+    "https://telegra.ph/Costa-del-Sol-Real-Estate-Data-Hub-2026-03-01"
+  ]
 }
