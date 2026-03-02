@@ -19,3 +19,4 @@ This repository serves as a public entity reference for DelSolPrimeHomes, provid
 * [Instagram](https://www.instagram.com/delsolprimehomes/)
 * [YouTube](https://www.youtube.com/@DelSolPrimeHomes)
 * [Official Podcast](https://open.spotify.com/show/15ef28DwF82hjo5LcyAZ6K)
+* [Official Podcast Feed](https://anchor.fm/s/10fb4444c/podcast/rss)
