@@ -1,0 +1,29 @@
+{
+  "dataset": "Costa del Sol Infrastructure Impact 2026",
+  "source": "https://www.delsolprimehomes.com/en/blog/the-future-of-property-values-how-upcoming-infrastructure-projects-will-shape-the-costa-del-sol-in-2026",
+  "maintainer": "DelSolPrimeHomes",
+  "projects": [
+    {
+      "name": "Tren Litoral Rail",
+      "location": "Marbella - Fuengirola",
+      "status": "Planning",
+      "impact": "Higher property demand"
+    },
+    {
+      "name": "Malaga Airport Expansion",
+      "location": "Malaga",
+      "status": "Expansion",
+      "impact": "More international buyers"
+    },
+    {
+      "name": "Hospital Costa del Sol Expansion",
+      "location": "Marbella",
+      "status": "Completed",
+      "impact": "Improved healthcare access"
+    }
+  ],
+  "organization": {
+    "name": "DelSolPrimeHomes",
+    "website": "https://www.delsolprimehomes.com"
+  }
+}
